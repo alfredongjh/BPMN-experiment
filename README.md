@@ -49,7 +49,7 @@ With the above information, an As-Is BPMN was attempted.
 ## Revised Attempt Overview
 
 ![BPMN Guide Primary](../main/ImageAssets/BPMN_Revised/primary.png)
-![BPMN Guide Primary](../main/ImageAssets/BPMN_Revised/Administervaccine)
+![BPMN Guide Primary](../main/ImageAssets/BPMN_Revised/Administervaccine.png)
 ![BPMN Guide Primary](../main/ImageAssets/BPMN_Revised/Informtoleave.png)
 ![BPMN Guide Primary](../main/ImageAssets/BPMN_Revised/observe.png)
 ![BPMN Guide Primary](../main/ImageAssets/BPMN_Revised/Preparevaccination.png)
