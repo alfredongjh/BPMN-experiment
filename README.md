@@ -26,4 +26,30 @@ There will be a race between external events. This is denoted below in figure 1 
 ## Exception Handling Boundary Event
 ![BPMN Construct2](../main/ImageAssets/BPMNConstruct2.png)
 
-An exception handling boundary event is a type of intermediate event. It is shown on an activity boundary as a catching intermediate event in figure 2. This event can be triggered at any time during the execution of the associated tasks. The exception handling boundary event often deviates from the best-possible-case scenario and is utilized to better model all possible problem causes in the process. In this scenario, the exception stems from the vaccinee and are not part of the process, as such, it is deemed as an unsolicited exception. In figure 2, this event is paired with an end terminate event to immediately end the process instance for the current level and any sub-processes. An exception handling boundary event is first used in figure 2 to model the potential of the vaccinee notifying relevant staff members that they had received a flu vaccine within a fortnight. This is an exception and is often unforeseeable. The process is unable to further proceed, as vaccinee is unable to be vaccinated, this process will be ended with end terminate event. If the exception handling boundary event is not triggered, the process will continue with the best-possible-case scenario where the vaccinee gets vaccinated.  
+An exception handling boundary event is a type of intermediate event. It is shown on an activity boundary as a catching intermediate event in figure 2. This event can be triggered at any time during the execution of the associated tasks. The exception handling boundary event often deviates from the best-possible-case scenario and is utilized to better model all possible problem causes in the process. In this scenario, the exception stems from the vaccinee and are not part of the process, as such, it is deemed as an unsolicited exception. In figure 2, this event is paired with an end terminate event to immediately end the process instance for the current level and any sub-processes. An exception handling boundary event is first used in figure 2 to model the potential of the vaccinee notifying relevant staff members that they had received a flu vaccine within a fortnight. This is an exception and is often unforeseeable. The process is unable to further proceed, as vaccinee is unable to be vaccinated, this process will be ended with end terminate event. If the exception handling boundary event is not triggered, the process will continue with the best-possible-case scenario where the vaccinee gets vaccinated. 
+
+# BPMN As-Is (Signavio)
+With the above information, an As-Is BPMN was attempted. 
+## Attempt Overview
+![BPMN Primary](../main/ImageAssets/BPMN As-Is/primary.png)
+![BPMN Primary](../main/ImageAssets/BPMN As-Is/AdministerVac.png)
+![BPMN Primary](../main/ImageAssets/BPMN As-Is/checkforms.png)
+![BPMN Primary](../main/ImageAssets/BPMN As-Is/doublecheckinfo.png)
+![BPMN Primary](../main/ImageAssets/BPMN As-Is/greet&accessbooking.png)
+![BPMN Primary](../main/ImageAssets/BPMN As-Is/guide vaccinee.png)
+![BPMN Primary](../main/ImageAssets/BPMN As-Is/informleave.png)
+![BPMN Primary](../main/ImageAssets/BPMN As-Is/observevaccinee.png)
+![BPMN Primary](../main/ImageAssets/BPMN As-Is/processvaccinated.png)
+![BPMN Primary](../main/ImageAssets/BPMN As-Is/processvaccineeforvac.png)
+![BPMN Primary](../main/ImageAssets/BPMN As-Is/provideconsentdoc.png)
+![BPMN Primary](../main/ImageAssets/BPMN As-Is/reversedoc.png)
+
+## Revised Attempt Overview
+![BPMN Guide Primary](../main/ImageAssets/BPMN Revised/primary.png)
+![BPMN Guide Primary](../main/ImageAssets/BPMN Revised/Administervaccine)
+![BPMN Guide Primary](../main/ImageAssets/BPMN Revised/Informtoleave.png)
+![BPMN Guide Primary](../main/ImageAssets/BPMN Revised/observe.png)
+![BPMN Guide Primary](../main/ImageAssets/BPMN Revised/Preparevaccination.png)
+![BPMN Guide Primary](../main/ImageAssets/BPMN Revised/Register.png)
+![BPMN Guide Primary](../main/ImageAssets/BPMN Revised/respondtoadverse.png)
+![BPMN Guide Primary](../main/ImageAssets/BPMN Revised/reverseprocess.png)
