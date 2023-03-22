@@ -37,7 +37,7 @@ With the above information, an As-Is BPMN was attempted.
 ![BPMN checkforms](/../main/ImageAssets/BPMN_As-Is/checkforms.png)
 ![BPMN doublecheck](/../main/ImageAssets/BPMN_As-Is/doublecheckinfo.png)
 ![BPMN greet&access](/../main/ImageAssets/BPMN_As-Is/greet&accessbooking.png)
-![BPMN Primary](/../main/ImageAssets/BPMN_As-Is/guide vaccinee.png)
+![BPMN Primary](/../main/ImageAssets/BPMN_As-Is/guidevaccinee.png)
 ![BPMN Primary](/../main/ImageAssets/BPMN_As-Is/informleave.png)
 ![BPMN Primary](/../main/ImageAssets/BPMN_As-Is/observevaccinee.png)
 ![BPMN Primary](/../main/ImageAssets/BPMN_As-Is/processvaccinated.png)
@@ -48,11 +48,11 @@ With the above information, an As-Is BPMN was attempted.
 
 ## Revised Attempt Overview
 
-![BPMN Guide Primary](../main/ImageAssets/BPMN Revised/primary.png)
-![BPMN Guide Primary](../main/ImageAssets/BPMN Revised/Administervaccine)
-![BPMN Guide Primary](../main/ImageAssets/BPMN Revised/Informtoleave.png)
-![BPMN Guide Primary](../main/ImageAssets/BPMN Revised/observe.png)
-![BPMN Guide Primary](../main/ImageAssets/BPMN Revised/Preparevaccination.png)
-![BPMN Guide Primary](../main/ImageAssets/BPMN Revised/Register.png)
-![BPMN Guide Primary](../main/ImageAssets/BPMN Revised/respondtoadverse.png)
-![BPMN Guide Primary](../main/ImageAssets/BPMN Revised/reverseprocess.png)
+![BPMN Guide Primary](../main/ImageAssets/BPMN_Revised/primary.png)
+![BPMN Guide Primary](../main/ImageAssets/BPMN_Revised/Administervaccine)
+![BPMN Guide Primary](../main/ImageAssets/BPMN_Revised/Informtoleave.png)
+![BPMN Guide Primary](../main/ImageAssets/BPMN_Revised/observe.png)
+![BPMN Guide Primary](../main/ImageAssets/BPMN_Revised/Preparevaccination.png)
+![BPMN Guide Primary](../main/ImageAssets/BPMN_Revised/Register.png)
+![BPMN Guide Primary](../main/ImageAssets/BPMN_Revised/respondtoadverse.png)
+![BPMN Guide Primary](../main/ImageAssets/BPMN_Revised/reverseprocess.png)
