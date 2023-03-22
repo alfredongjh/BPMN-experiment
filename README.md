@@ -31,6 +31,7 @@ An exception handling boundary event is a type of intermediate event. It is show
 # BPMN As-Is (Signavio)
 With the above information, an As-Is BPMN was attempted. 
 ## Attempt Overview
+
 ![BPMN Primary](../main/ImageAssets/BPMN As-Is/primary.png)
 ![BPMN Primary](../main/ImageAssets/BPMN As-Is/AdministerVac.png)
 ![BPMN Primary](../main/ImageAssets/BPMN As-Is/checkforms.png)
@@ -45,6 +46,7 @@ With the above information, an As-Is BPMN was attempted.
 ![BPMN Primary](../main/ImageAssets/BPMN As-Is/reversedoc.png)
 
 ## Revised Attempt Overview
+
 ![BPMN Guide Primary](../main/ImageAssets/BPMN Revised/primary.png)
 ![BPMN Guide Primary](../main/ImageAssets/BPMN Revised/Administervaccine)
 ![BPMN Guide Primary](../main/ImageAssets/BPMN Revised/Informtoleave.png)
