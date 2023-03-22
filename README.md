@@ -32,29 +32,18 @@ An exception handling boundary event is a type of intermediate event. It is show
 With the above information, an As-Is BPMN was attempted. 
 ## Attempt Overview
 
-![BPMN Primary](/../main/ImageAssets/BPMN As-Is/primary.png)
-
-![BPMN Admin](/../main/ImageAssets/BPMN As-Is/AdministerVac.png)
-
-![BPMN checkforms](/../main/ImageAssets/BPMN As-Is/checkforms.png)
-
-![BPMN doublecheck](/../main/ImageAssets/BPMN As-Is/doublecheckinfo.png)
-
-![BPMN greet&access](/../main/ImageAssets/BPMN As-Is/greet&accessbooking.png)
-
-![BPMN Primary](/../main/ImageAssets/BPMN As-Is/guide vaccinee.png)
-
-![BPMN Primary](/../main/ImageAssets/BPMN As-Is/informleave.png)
-
-![BPMN Primary](/../main/ImageAssets/BPMN As-Is/observevaccinee.png)
-
-![BPMN Primary](/../main/ImageAssets/BPMN As-Is/processvaccinated.png)
-
-![BPMN Primary](/../main/ImageAssets/BPMN As-Is/processvaccineeforvac.png)
-
-![BPMN Primary](/../main/ImageAssets/BPMN As-Is/provideconsentdoc.png)
-
-![BPMN Primary](/../main/ImageAssets/BPMN As-Is/reversedoc.png)
+![BPMN Primary](/../main/ImageAssets/BPMN_As-Is/primary.png)
+![BPMN Admin](/../main/ImageAssets/BPMN_As-Is/AdministerVac.png)
+![BPMN checkforms](/../main/ImageAssets/BPMN_As-Is/checkforms.png)
+![BPMN doublecheck](/../main/ImageAssets/BPMN_As-Is/doublecheckinfo.png)
+![BPMN greet&access](/../main/ImageAssets/BPMN_As-Is/greet&accessbooking.png)
+![BPMN Primary](/../main/ImageAssets/BPMN_As-Is/guide vaccinee.png)
+![BPMN Primary](/../main/ImageAssets/BPMN_As-Is/informleave.png)
+![BPMN Primary](/../main/ImageAssets/BPMN_As-Is/observevaccinee.png)
+![BPMN Primary](/../main/ImageAssets/BPMN_As-Is/processvaccinated.png)
+![BPMN Primary](/../main/ImageAssets/BPMN_As-Is/processvaccineeforvac.png)
+![BPMN Primary](/../main/ImageAssets/BPMN_As-Is/provideconsentdoc.png)
+![BPMN Primary](/../main/ImageAssets/BPMN_As-Is/reversedoc.png)
 
 
 ## Revised Attempt Overview
