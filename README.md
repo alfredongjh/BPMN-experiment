@@ -1,5 +1,6 @@
 # BPMN-experiment
 Work-In-Progress
+The case utilised is included in BPMN-experiment.docx
 
 # Actors / Organisational Artefacts
 ![BPMN Actors](../main/ImageAssets/BPMNActors.png)
