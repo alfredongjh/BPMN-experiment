@@ -33,10 +33,10 @@ With the above information, an As-Is BPMN was attempted.
 ## Attempt Overview
 
 ![BPMN Primary](../main/ImageAssets/BPMN As-Is/primary.png)
-![BPMN Primary](../main/ImageAssets/BPMN As-Is/AdministerVac.png)
-![BPMN Primary](../main/ImageAssets/BPMN As-Is/checkforms.png)
-![BPMN Primary](../main/ImageAssets/BPMN As-Is/doublecheckinfo.png)
-![BPMN Primary](../main/ImageAssets/BPMN As-Is/greet&accessbooking.png)
+![BPMN Admin](../main/ImageAssets/BPMN As-Is/AdministerVac.png)
+![BPMN checkforms](../main/ImageAssets/BPMN As-Is/checkforms.png)
+![BPMN doublecheck](../main/ImageAssets/BPMN As-Is/doublecheckinfo.png)
+![BPMN greet&access](../main/ImageAssets/BPMN As-Is/greet&accessbooking.png)
 ![BPMN Primary](../main/ImageAssets/BPMN As-Is/guide vaccinee.png)
 ![BPMN Primary](../main/ImageAssets/BPMN As-Is/informleave.png)
 ![BPMN Primary](../main/ImageAssets/BPMN As-Is/observevaccinee.png)
